@@ -1,0 +1,21 @@
+-- Example #1
+-- Search for a character in a string.
+
+SEQ
+  -- initialise variables
+  pointer := 0
+  finished := FALSE
+  found := FALSE
+  -- search until found or end of string
+  WHILE NOT finished
+    IF
+      string[pointer] <> char
+        IF
+          pointer < end.of.string
+            pointer := pointer + 1
+          pointer = end.of.string
+            finished := TRUE
+      string[pointer] = char
+        SEQ
+          found := TRUE
+          finished := TRUE
