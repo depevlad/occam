@@ -1,5 +1,5 @@
-# occam-e
+# occam_e
 
-Occam-e is an implementation of Occam that enables recursion.
+occam_e is an implementation of Occam that enables recursion.
 
 ## Installation
