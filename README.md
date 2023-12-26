@@ -1,5 +1,3 @@
-# occam_e
+# ccam
 
-occam_e is an implementation of Occam that enables recursion.
-
-## Installation
+ccam is a portable implementation of Occam that enables recursion.
