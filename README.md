@@ -1,3 +1,3 @@
 # ccam
 
-ccam is a portable implementation of Occam that enables recursion.
+ccam is a portable implementation of Occam (parallel programming language).
